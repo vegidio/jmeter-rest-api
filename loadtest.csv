@@ -1,3 +1,3 @@
-id;description;method;path;input;assertion
-1;Get all countries;GET;all;;assertions/GET_all.json
-2;Get Brazil;GET;alpha/bra;;assertions/GET_alpha-bra.json
+id,description,method,path,input,assertion
+1,Get all countries,GET,all,,assertion/GET_all.json
+2,Get Brazil,GET,alpha/bra,,assertion/GET_alpha-bra.json
