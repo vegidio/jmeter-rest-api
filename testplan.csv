@@ -1,0 +1,3 @@
+id,description,method,path,input,assertion
+1,Get all countries,GET,all,,GET_all.json
+2,Get Brazil,GET,alpha/bra,,GET_alpha-bra.json
